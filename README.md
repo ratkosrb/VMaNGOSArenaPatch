@@ -12,9 +12,7 @@ Features:
   - Pet commands are disabled until door opens to avoid attacking your enemies before the battle starts.
    
  Todo:
-  - Make items for disabled switching adjustable via database.
-  - Make max. Itemlevel allowed in Arenas adjustable in config file.
-  - Fix Scoreboard for same Faction games (maybe edit */Interface/FrameXML/WorldStateFrame.lua*).
+  - Fix Scoreboard for same Faction games (maybe edit */Interface/FrameXML/WorldStateFrame.lua*). (edit: not possible i think)
   
  Try it:
   - Goto (http://uterusone.net) and create your Account.
